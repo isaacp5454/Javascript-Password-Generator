@@ -7,4 +7,9 @@ This project challenges us to generate a password through javascript. My motivat
 Clone this repository on your local computer using git clone. And then run the index.html file.
 
 ## Usage 
-![alt text](assets/passwordgenphoto.png)
+![Password Generator](assets/passwordgenphoto.png)
+
+## Deployment Link
+https://isaacp5454.github.io/Javascript-Password-Generator/
+
+
