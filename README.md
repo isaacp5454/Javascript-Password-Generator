@@ -7,4 +7,4 @@ This project challenges us to generate a password through javascript. My motivat
 Clone this repository on your local computer using git clone. And then run the index.html file.
 
 ## Usage 
-![alt text](assets/images/screenshot.png)
+![alt text](assets/passwordgenphoto.png)
